@@ -26,6 +26,7 @@ import permissions.dispatcher.NeedsPermission;
 import permissions.dispatcher.OnNeverAskAgain;
 import permissions.dispatcher.OnPermissionDenied;
 import permissions.dispatcher.RuntimePermissions;
+import yourvrtours.croppedscreenrecorder.R;
 
 import java.util.Date;
 import java.util.Timer;

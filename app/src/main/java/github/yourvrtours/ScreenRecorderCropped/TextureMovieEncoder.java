@@ -35,6 +35,7 @@ import androidx.annotation.RequiresApi;
 import github.yourvrtours.ScreenRecorderCropped.gles.EglCore;
 import github.yourvrtours.ScreenRecorderCropped.gles.Texture2dProgram;
 import github.yourvrtours.ScreenRecorderCropped.gles.WindowSurface;
+import yourvrtours.croppedscreenrecorder.BuildConfig;
 
 import java.io.File;
 import java.io.IOException;
